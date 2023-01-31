@@ -1,0 +1,657 @@
+[
+  {
+    "id": "d94ac754-6f1b-4154-936c-c09033689a5d",
+    "name": "PetSmart Distribution Center",
+    "address": {
+      "address1": "910 E Stevenson Rd",
+      "city"    : "Ottawa",
+      "state"   : "IL",
+      "zip"     : "61350"
+    },
+    "geoOutline": [
+      {
+        "latitude": 41.38267725384928,
+        "longitude": -88.82019281387329
+      },
+      {
+        "latitude": 41.38267725384928,
+        "longitude": -88.81782174110413
+      },
+      {
+        "latitude": 41.37841063326103,
+        "longitude": -88.81791830062866
+      },
+      {
+        "latitude": 41.37841063326103,
+        "longitude": -88.82028937339783
+      },
+      {
+        "latitude": 41.38267725384928,
+        "longitude": -88.82019281387329
+      }
+    ]
+  },
+  {
+    "id": "96e36646-2b13-4315-86f0-ee8169eb0097",
+    "name": "Tyson Fresh Meats",
+    "address": {
+      "address1": "621 E Stevenson Rd",
+      "city"    : "Ottawa",
+      "state"   : "IL",
+      "zip"     : "61350"
+    },
+    "geoOutline": [
+      {
+        "latitude": 41.37824,
+        "longitude": -88.82529
+      },
+      {
+        "latitude": 41.37824,
+        "longitude": -88.82505
+      },
+      {
+        "latitude": 41.37838,
+        "longitude": -88.82505
+      },
+      {
+        "latitude": 41.37838,
+        "longitude": -88.82362
+      },
+      {
+        "latitude": 41.37890,
+        "longitude": -88.82362
+      },
+      {
+        "latitude": 41.37890,
+        "longitude": -88.82529
+      },
+      {
+        "latitude": 41.37824,
+        "longitude": -88.82529
+      }
+    ]
+  },
+  {
+    "id": "a290dc05-460b-4811-b281-e7084a6a2cc6",
+    "name": "Starved Rock Harley Davidson",
+    "address": {
+      "address1": "750 Centennial Dr",
+      "city"    : "Ottawa",
+      "state"   : "IL",
+      "zip"     : "61350"
+    },
+    "geoOutline": [
+      {
+        "latitude": 41.3756653576904,
+        "longitude": -88.82501274347305
+      },
+      {
+        "latitude": 41.3756653576904,
+        "longitude": -88.82470697164536
+      },
+      {
+        "latitude": 41.375572773063425,
+        "longitude": -88.82470697164536
+      },
+      {
+        "latitude": 41.37556874764187,
+        "longitude": -88.82439583539963
+      },
+      {
+        "latitude": 41.375339298201546,
+        "longitude": -88.82439583539963
+      },
+      {
+        "latitude": 41.37533124732931,
+        "longitude": -88.82466942071915
+      },
+      {
+        "latitude": 41.37521048412594,
+        "longitude": -88.82467478513718
+      },
+      {
+        "latitude": 41.37521048412594,
+        "longitude": -88.82501274347305
+      },
+      {
+        "latitude": 41.3756653576904,
+        "longitude": -88.82501274347305
+      }
+    ]
+  },
+  {
+    "id": "8047a97c-c5f4-47ea-80b2-4d658cbac8fb",
+    "name": "MBL USA Corporation",
+    "address": {
+      "address1": "601 Dayton Rd",
+      "city"    : "Ottawa",
+      "state"   : "IL",
+      "zip"     : "61350"
+    },
+    "geoOutline": [
+      {
+        "latitude": 41.3824156295108,
+        "longitude": -88.82872492074966
+      },
+      {
+        "latitude": 41.38149792350995,
+        "longitude": -88.82874637842178
+      },
+      {
+        "latitude": 41.38149389845509,
+        "longitude": -88.82857471704483
+      },
+      {
+        "latitude": 41.381401322124916,
+        "longitude": -88.82857471704483
+      },
+      {
+        "latitude": 41.38139729706409,
+        "longitude": -88.82872492074966
+      },
+      {
+        "latitude": 41.380487626927646,
+        "longitude": -88.82876247167587
+      },
+      {
+        "latitude": 41.380479576692636,
+        "longitude": -88.82811337709427
+      },
+      {
+        "latitude": 41.38138522188013,
+        "longitude": -88.82808655500412
+      },
+      {
+        "latitude": 41.381389246941694,
+        "longitude": -88.82849961519241
+      },
+      {
+        "latitude": 41.38149792350995,
+        "longitude": -88.82848888635635
+      },
+      {
+        "latitude": 41.381489873400014,
+        "longitude": -88.82739454507828
+      },
+      {
+        "latitude": 41.38239952951716,
+        "longitude": -88.82737308740616
+      },
+      {
+        "latitude": 41.3824156295108,
+        "longitude": -88.82872492074966
+      }
+    ]
+  },
+  {
+    "id": "bdf2fc6f-ea60-405a-ae3e-c720b433f5fd",
+    "name": "Blain's Farm & Fleet",
+    "address": {
+      "address1": "4140 Columbus St",
+      "city"    : "Ottawa",
+      "state"   : "IL",
+      "zip"     : "61350"
+    },
+    "geoOutline": [
+      {
+        "latitude": 41.38211777898269,
+        "longitude": -88.83393377065659
+      },
+      {
+        "latitude": 41.38146169800738,
+        "longitude": -88.83394449949265
+      },
+      {
+        "latitude": 41.38146169800738,
+        "longitude": -88.834008872509
+      },
+      {
+        "latitude": 41.381071266310045,
+        "longitude": -88.834008872509
+      },
+      {
+        "latitude": 41.381071266310045,
+        "longitude": -88.83394449949265
+      },
+      {
+        "latitude": 41.38064460631097,
+        "longitude": -88.8339552283287
+      },
+      {
+        "latitude": 41.3806405812033,
+        "longitude": -88.83305937051773
+      },
+      {
+        "latitude": 41.382113753966216,
+        "longitude": -88.83304327726364
+      },
+      {
+        "latitude": 41.38211777898269,
+        "longitude": -88.83393377065659
+      }
+    ]
+  },
+  {
+    "id": "f11c5ab1-53cd-4205-bedf-e5b8cf9de09c",
+    "name": "Anytime Fitness",
+    "address": {
+      "address1": "4100 Columbus St",
+      "city"    : "Ottawa",
+      "state"   : "IL",
+      "zip"     : "61350"
+    },
+    "geoOutline": [
+      {
+        "latitude": 41.37964435939661,
+        "longitude": -88.83531108498573
+      },
+      {
+        "latitude": 41.37943706283996,
+        "longitude": -88.83530840277672
+      },
+      {
+        "latitude": 41.37944310061309,
+        "longitude": -88.8347639143467
+      },
+      {
+        "latitude": 41.379656434903815,
+        "longitude": -88.8347639143467
+      },
+      {
+        "latitude": 41.37964435939661,
+        "longitude": -88.83531108498573
+      }
+    ]
+  },
+  {
+    "id": "fb9dc264-33d2-4a58-bc05-e129a5e3e698",
+    "name": "Stevenson Transfer",
+    "address": {
+      "address1": "300 W Stevenson Rd",
+      "city"    : "Ottawa",
+      "state"   : "IL",
+      "zip"     : "61350"
+    },
+    "geoOutline": [
+      {
+        "latitude": 41.37954171749483,
+        "longitude": -88.84071305394173
+      },
+      {
+        "latitude": 41.379535679730864,
+        "longitude": -88.84017124772072
+      },
+      {
+        "latitude": 41.38014750363057,
+        "longitude": -88.84016588330269
+      },
+      {
+        "latitude": 41.380149516199694,
+        "longitude": -88.83997544646263
+      },
+      {
+        "latitude": 41.380717058206216,
+        "longitude": -88.83997276425362
+      },
+      {
+        "latitude": 41.38071907075771,
+        "longitude": -88.8407076895237
+      },
+      {
+        "latitude": 41.37954171749483,
+        "longitude": -88.84071305394173
+      }
+    ]
+  },
+  {
+    "id": "fba4c845-619e-494b-83d9-0cd5f6642b82",
+    "name": "Centrue Bank",
+    "address": {
+      "address1": "400 E Etna Rd",
+      "city"    : "Ottawa",
+      "state"   : "IL",
+      "zip"     : "61350"
+    },
+    "geoOutline": [
+      {
+        "latitude": 41.3740350439015,
+        "longitude": -88.83344158530235
+      },
+      {
+        "latitude": 41.373898176193386,
+        "longitude": -88.83344694972038
+      },
+      {
+        "latitude": 41.37389415066822,
+        "longitude": -88.83318141102791
+      },
+      {
+        "latitude": 41.373926354862725,
+        "longitude": -88.83318141102791
+      },
+      {
+        "latitude": 41.37392836762434,
+        "longitude": -88.83307948708534
+      },
+      {
+        "latitude": 41.3740209545919,
+        "longitude": -88.83307412266731
+      },
+      {
+        "latitude": 41.3740350439015,
+        "longitude": -88.83344158530235
+      }
+    ]
+  },
+  {
+    "id": "5e9dbde7-2b00-43e5-82fa-8af371837629",
+    "name": "Seattle Sutton's Healthy Eating",
+    "address": {
+      "address1": "611 E Stevenson Rd",
+      "city"    : "Ottawa",
+      "state"   : "IL",
+      "zip"     : "61350"
+    },
+    "geoOutline": [
+      {
+        "latitude": 41.376996247139786,
+        "longitude": -88.82762622088194
+      },
+      {
+        "latitude": 41.376994737639784,
+        "longitude": -88.82741298526525
+      },
+      {
+        "latitude": 41.377046060620735,
+        "longitude": -88.82741164416075
+      },
+      {
+        "latitude": 41.37704555745444,
+        "longitude": -88.82719773799181
+      },
+      {
+        "latitude": 41.37707776008872,
+        "longitude": -88.8271963968873
+      },
+      {
+        "latitude": 41.37707776008872,
+        "longitude": -88.82712934166193
+      },
+      {
+        "latitude": 41.377159272935494,
+        "longitude": -88.82712867110968
+      },
+      {
+        "latitude": 41.377156757108416,
+        "longitude": -88.82669683545828
+      },
+      {
+        "latitude": 41.37730619706796,
+        "longitude": -88.82669415324926
+      },
+      {
+        "latitude": 41.37730468757513,
+        "longitude": -88.82646080106497
+      },
+      {
+        "latitude": 41.37678692946966,
+        "longitude": -88.82646683603525
+      },
+      {
+        "latitude": 41.37678944531104,
+        "longitude": -88.8267645612359
+      },
+      {
+        "latitude": 41.37683774944667,
+        "longitude": -88.82676389068365
+      },
+      {
+        "latitude": 41.37683925895034,
+        "longitude": -88.82689196616411
+      },
+      {
+        "latitude": 41.37678541996477,
+        "longitude": -88.82689196616411
+      },
+      {
+        "latitude": 41.37678642630136,
+        "longitude": -88.82712263613939
+      },
+      {
+        "latitude": 41.376822151240134,
+        "longitude": -88.82712263613939
+      },
+      {
+        "latitude": 41.376824163912154,
+        "longitude": -88.82739085704088
+      },
+      {
+        "latitude": 41.3767763629348,
+        "longitude": -88.82739152759314
+      },
+      {
+        "latitude": 41.37677736927151,
+        "longitude": -88.8276282325387
+      },
+      {
+        "latitude": 41.376996247139786,
+        "longitude": -88.82762622088194
+      }
+    ]
+  },
+  {
+    "id": "a0251aa3-2a97-4faf-aa4e-cd925f5d7073",
+    "name": "Feece Oil",
+    "address": {
+      "address1": "622 E Stevenson Rd",
+      "city"    : "Ottawa",
+      "state"   : "IL",
+      "zip"     : "61350"
+    },
+    "geoOutline": [
+      {
+        "latitude": 41.37997240987876,
+        "longitude": -88.82612586021423
+      },
+      {
+        "latitude": 41.37977115211044,
+        "longitude": -88.82612586021423
+      },
+      {
+        "latitude": 41.37977115211044,
+        "longitude": -88.82594347000122
+      },
+      {
+        "latitude": 41.37997240987876,
+        "longitude": -88.82594347000122
+      },
+      {
+        "latitude": 41.37997240987876,
+        "longitude": -88.82612586021423
+      }
+    ]
+  },
+  {
+    "id": "18f91749-df54-4778-ae1e-8d8e4ab2d796",
+    "name": "Advantech B+ B SmartWorx",
+    "address": {
+      "address1": "707 Dayton Rd",
+      "city"    : "Ottawa",
+      "state"   : "IL",
+      "zip"     : "61350"
+    },
+    "geoOutline": [
+      {
+        "latitude": 41.38280605313696,
+        "longitude": -88.82384866476059
+      },
+      {
+        "latitude": 41.38246996696001,
+        "longitude": -88.82384866476059
+      },
+      {
+        "latitude": 41.38246996696001,
+        "longitude": -88.82275432348251
+      },
+      {
+        "latitude": 41.38280605313696,
+        "longitude": -88.82275432348251
+      },
+      {
+        "latitude": 41.38280605313696,
+        "longitude": -88.82384866476059
+      }
+    ]
+  },
+  {
+    "id": "2aaf96cd-4ffe-476d-af08-2ce3617faa34",
+    "name": "HR Imaging",
+    "address": {
+      "address1": "4105 Progress Dr",
+      "city"    : "Ottawa",
+      "state"   : "IL",
+      "zip"     : "61350"
+    },
+    "geoOutline": [
+      {
+        "latitude": 41.38135704644215,
+        "longitude": -88.8259756565094
+      },
+      {
+        "latitude": 41.38084183628109,
+        "longitude": -88.8259756565094
+      },
+      {
+        "latitude": 41.38084183628109,
+        "longitude": -88.82544994354248
+      },
+      {
+        "latitude": 41.38135704644215,
+        "longitude": -88.82544994354248
+      },
+      {
+        "latitude": 41.38135704644215,
+        "longitude": -88.8259756565094
+      }
+    ]
+  },
+  {
+    "id": "3a780cb8-eb6a-4946-9fe1-7cf68870ad5e",
+    "name": "Roxy Cinemas",
+    "address": {
+      "address1": "827 LaSalle St",
+      "city"    : "Ottawa",
+      "state"   : "IL",
+      "zip"     : "61350"
+    },
+    "geoOutline": [
+      {
+        "latitude": 41.34881994138272,
+        "longitude": -88.84284943342209
+      },
+      {
+        "latitude": 41.34865335813780,
+        "longitude": -88.84281858801842
+      },
+      {
+        "latitude": 41.34850955516478,
+        "longitude": -88.84282261133194
+      },
+      {
+        "latitude": 41.34850670757797,
+        "longitude": -88.84327456355095
+      },
+      {
+        "latitude": 41.34863057748998,
+        "longitude": -88.84327992796898
+      },
+      {
+        "latitude": 41.34863484886207,
+        "longitude": -88.84336709976196
+      },
+      {
+        "latitude": 41.34881851759612,
+        "longitude": -88.84336575865746
+      },
+      {
+        "latitude": 41.34881994138272,
+        "longitude": -88.84284943342209
+      }
+    ],
+    "images": [
+      {
+        "title":"Image 1",
+        "description": "Image 1 description",
+        "href": "https://s3-us-west-2.amazonaws.com/flowmsp-test-image-bucket/827+Lasalle+St+3.jpg"
+      },
+      {
+        "title":"Image 2",
+        "description": "Image 2 description",
+        "href": "https://s3-us-west-2.amazonaws.com/flowmsp-test-image-bucket/827+Lasalle+St+2.jpg"
+      },
+      {
+        "title":"Image 3",
+        "description": "Image 3 description",
+        "href": "https://s3-us-west-2.amazonaws.com/flowmsp-test-image-bucket/827+Lasalle+St+1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "f0e7be8b-c7e3-441c-a58b-e30a18ba5538",
+    "name": "Tangled Roots Brewing Company",
+    "address": {
+      "address1": "812 LaSalle St",
+      "city"    : "Ottawa",
+      "state"   : "IL",
+      "zip"     : "61350"
+    },
+    "hydrants" : [
+      "0be08c59-6bd6-4e8b-9a7a-0f6198ef1464",
+      "c770ec42-da51-434f-9155-87eb7b1baf48"
+    ],
+    "geoOutline": [
+      {
+        "latitude": 41.34833442834298,
+        "longitude": -88.84245917201042
+      },
+      {
+        "latitude": 41.348335852140195,
+        "longitude": -88.84215071797371
+      },
+      {
+        "latitude": 41.34816499625407,
+        "longitude": -88.84215340018272
+      },
+      {
+        "latitude": 41.34815930105013,
+        "longitude": -88.84247660636902
+      },
+      {
+        "latitude": 41.34833442834298,
+        "longitude": -88.84245917201042
+      }
+    ],
+    "images": [
+      {
+        "title":"Image 1",
+        "description": "Image 1 description",
+        "href": "https://s3-us-west-2.amazonaws.com/flowmsp-test-image-bucket/812+Lasalle+St+1.jpg"
+      },
+      {
+        "title":"Image 2",
+        "description": "Image 2 description",
+        "href": "https://s3-us-west-2.amazonaws.com/flowmsp-test-image-bucket/812+Lasalle+St+2.jpg"
+      },
+      {
+        "title":"Image 3",
+        "description": "Image 3 description",
+        "href": "https://s3-us-west-2.amazonaws.com/flowmsp-test-image-bucket/812+Lasalle+St+3.jpg"
+      },
+      {
+        "title":"Image 4",
+        "description": "Image 4 description",
+        "href": "https://s3-us-west-2.amazonaws.com/flowmsp-test-image-bucket/812+Lasalle+St+4.jpg"
+      }
+    ]
+  }
+]
